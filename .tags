@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+html	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^<html>$/;"	function	line:1
+head	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^  <head><!-- where all the meta data will go, like and files we need to include -->$/;"	function	line:3
+title	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^    <title>My Little Rainbow<\/title><!-- the title is what appears on your tab -->$/;"	function	line:4
+body	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^  <body><!-- the body element is where everything we will see on the page will go -->$/;"	function	line:7
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^    <div> <!-- the grandest grandparent div -->$/;"	function	line:10
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^      <div>$/;"	function	line:11
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^        <div>$/;"	function	line:12
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^          <div>$/;"	function	line:13
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^            <div>$/;"	function	line:14
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^              <div>$/;"	function	line:15
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/index.html	/^                <div><\/div> <!-- the grandest child div -->$/;"	function	line:16
+div	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/main.css	/^div {$/;"	function	line:1
+My Little Rainbow	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^# My Little Rainbow$/;"	function	line:1
+HTML Basics	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^## HTML Basics$/;"	function	line:7
+Elements	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^### Elements$/;"	function	line:10
+CSS Basics	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^## CSS Basics$/;"	function	line:35
+CSS selectors	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^### CSS selectors$/;"	function	line:38
+Making a Rainbow	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^## Making a Rainbow$/;"	function	line:54
+Making the Divs Visible	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^### Making the Divs Visible$/;"	function	line:59
+Some Stuff You Should Know About Hex Colors (and Web Colors in General).	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^#### Some Stuff You Should Know About Hex Colors (and Web Colors in General).$/;"	function	line:76
+Coloring the Rainbow	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^#### Coloring the Rainbow$/;"	function	line:88
+red { /* this selects any elements with the red id */	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/README.md	/^#red { \/* this selects any elements with the red id *\/$/;"	function	line:101
+Contributing to Learn.co Curriculum	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/dev/my-little-rainbow/my-little-rainbow-v-000/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
